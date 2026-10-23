@@ -1,3 +1,15 @@
+# AWS DevOps Learning Roadmap
+
+> **Portfolio classification: learning resource / study syllabus.** This repository documents a 30-day AWS and DevOps learning curriculum. Topics and project exercises below describe study material and proposed practice; they do **not** establish that every lab was completed or deployed.
+>
+> **Source reference:** The original README links to this [YouTube playlist](https://www.youtube.com/playlist?list=PLdpzxOOAlwvLNOxX0RfndiYSt1Le9azze). Please consult the original creators and license terms when reusing learning material.
+
+**Focus areas:** AWS IAM, EC2, VPC, networking, storage, CI/CD, containers, monitoring, security and Infrastructure as Code.
+
+**How to use this roadmap:** Choose a day, study the topic, perform an exercise in a controlled account if applicable, and separately record your own configuration, test evidence and cleanup steps. AWS resources may incur charges.
+
+---
+
 # aws-devops-zero-to-hero
 
 Complete YouTube playlist - https://www.youtube.com/playlist?list=PLdpzxOOAlwvLNOxX0RfndiYSt1Le9azze
