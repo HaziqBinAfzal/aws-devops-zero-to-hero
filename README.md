@@ -2,7 +2,7 @@
 
 > **Portfolio classification: learning resource / study syllabus.** This repository documents a 30-day AWS and DevOps learning curriculum. Topics and project exercises below describe study material and proposed practice; they do **not** establish that every lab was completed or deployed.
 >
-> **Source reference:** The original README links to this [YouTube playlist](https://www.youtube.com/playlist?list=PLdpzxOOAlwvLNOxX0RfndiYSt1Le9azze). Please consult the original creators and license terms when reusing learning material.
+> **Source and attribution:** This is a learning fork of [iam-veeramalla/aws-devops-zero-to-hero](https://github.com/iam-veeramalla/aws-devops-zero-to-hero). Credit for the original curriculum belongs to its upstream author and contributors. The original README links to this [YouTube playlist](https://www.youtube.com/playlist?list=PLdpzxOOAlwvLNOxX0RfndiYSt1Le9azze). Please consult the original creators and license terms when reusing learning material.
 
 **Focus areas:** AWS IAM, EC2, VPC, networking, storage, CI/CD, containers, monitoring, security and Infrastructure as Code.
 
